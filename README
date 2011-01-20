@@ -1,0 +1,27 @@
+WWW::Foursquare::RSS
+====================
+
+This module provides an object-oriented Perl interface to the Foursquare.com RSS feeds.
+
+INSTALLATION
+
+To install this module, type the following:
+
+perl Makefile.pl
+make
+make test
+make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+    Carp
+    DateTime
+    Date::Parse
+    LWP::Simple
+    XML::Simple
+
+COPYRIGHT AND LICENSE
+
+Copyright (C) 2010 Michael Aquilina. All rights reserved.

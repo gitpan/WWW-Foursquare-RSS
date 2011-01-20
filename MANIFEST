@@ -1,0 +1,7 @@
+Changes
+lib/WWW/Foursquare/RSS.pm
+lib/WWW/Foursquare/RSS/Checkin.pm
+Makefile.PL
+MANIFEST
+README
+META.yml                                 Module meta-data (added by MakeMaker)
